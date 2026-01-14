@@ -1,0 +1,16 @@
+# ========== Git ==========
+.git/
+
+# ========== Build Output ==========
+outputs/
+
+# ========== CMake ==========
+cmake-build-debug/
+
+# ========== IDE ==========
+.idea/
+.vscode/
+*.iml
+
+# ========== Logs ==========
+*.log
