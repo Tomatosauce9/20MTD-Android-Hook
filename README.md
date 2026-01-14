@@ -66,4 +66,4 @@ cmake --build . -- -j8
 
 ### 📄 许可证 License
 
-本项目采用 MIT License，详情见 LICENSE.txt
+本项目基于 GNU General Public License v3.0 开源发布，使用、修改与分发请遵循 GPL-3.0 协议，详见 LICENSE 文件。
