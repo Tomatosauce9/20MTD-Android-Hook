@@ -4,8 +4,8 @@
 ![CMake](https://img.shields.io/badge/CMake-3.29-blue?logoColor=%23fff&style=for-the-badge)
 [![License](https://img.shields.io/github/license/Tomatosauce9/20MTD-Android-Hook?logo=github&logoColor=%23fff&style=for-the-badge)](LICENSE)
 ![Size](https://img.shields.io/github/languages/code-size/Tomatosauce9/20MTD-Android-Hook?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Tomatosauce9/20MTD-Android-Hook?style=for-the-badge)
-![Issues](https://img.shields.io/github/forks/Tomatosauce9/20MTD-Android-Hook?style=for-the-badge)
+![Open Issues](https://img.shields.io/github/issues/Tomatosauce9/20MTD-Android-Hook?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Tomatosauce9/20MTD-Android-Hook?style=for-the-badge)
 
 ---
 
@@ -26,7 +26,7 @@
     - 玩家属性修改 (PlayerAttrMod)
 - **存档功能 SaveMod**
 - **Hook 模块**
-    - HookGame / HookInput / HookEGL
+    - (HookGame / HookInput / HookEGL)
 - **UI 显示 (ImGui)**
     - 菜单、字体、调试信息
 - **第三方库集成**
@@ -51,13 +51,13 @@ cmake --build . -- -j8
 ```
 或者是使用CLion
 
-### 🚀 使用 Usage
+## 🚀 使用 Usage
 
 使用 Android Injector
 将 .so 文件注入目标游戏
 使用 ImGui 菜单开启/关闭功能模块
 
-### ⚠️ 注意事项 Notes
+## ⚠️ 注意事项 Notes
 本项目仅用于学习和研究，不得用于非法用途
 仅支持 Android ARM64
 建议在测试环境中运行，避免破坏游戏数据
